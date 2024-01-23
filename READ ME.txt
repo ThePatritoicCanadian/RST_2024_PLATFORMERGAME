@@ -1,0 +1,23 @@
+READ ME
+
+This is a prototype/example of a tutorial I followed for Pygame, Although you can make pretty amazing games in Pygame, I would not recommend it.
+
+Reason being that Pygame is really complicated and acts as its own Syntax by expanding Pythons library to include things such as fps delay, key/mouse detection and more
+
+Thank you to Tech with Tim for his tutorial on Pygame, otherwise I would've been stuck not knowing what to do.
+
+You can find his Pygame Tutorial Playlist by copying this link into your Chrome Browser: http://bit.ly/pygame_tutorial
+
+TO PLAY:
+
+1. Press the 'PLAY' button on the VSCode Window
+
+CONTROLS:
+A to move right, D to move left.
+W to jump.
+SPACE to shoot a projectile.
+
+WHEN YOU ARE DONE PLAYING/TESTING:
+
+Press the "X" button on the Pygame Window, otherwise the game will not work because the Enemy
+Character doesn't re-render onto the Window.
